@@ -1,8 +1,8 @@
 {
   "title": "Python Code Mentor",
   "subtitle": "Sokratischer Python-Tutor für Einsteiger:innen",
-  "model-name": "GLM 5.3 Flash",
-  "model": "glm-5.3-flash",
+  "model-name": "qwen3-30b-a3b-instruct-2507",
+  "model": "qwen3-30b-a3b-instruct-2507",
   "temperature": 0,
   "top_p": 0.05,
   "messages": [
