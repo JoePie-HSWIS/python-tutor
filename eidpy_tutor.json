@@ -1,9 +1,9 @@
 {
   "title": "Python Code Mentor",
   "subtitle": "Sokratischer Python-Tutor für Einsteiger:innen",
-  "model-name": "GLM 5.3 Flash",
-  "model": "glm-5.3-flash",
-  "temperature": 0,
+  "model-name": "DeepSeek V4.1 Flash",
+  "model": "deepseek-v4.1-flash-1017",
+  "temperature": 0.2,
   "top_p": 0.05,
   "messages": [
     {
